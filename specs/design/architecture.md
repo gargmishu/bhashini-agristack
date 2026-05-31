@@ -7,7 +7,8 @@ BHASHINI (National Hub for Language Technologies) is India's sovereign AI layer 
 * **ASR (Automatic Speech Recognition):** Acoustic models strip out ambient rural noise (such as farm machinery, livestock, and wind) to transcribe conversational speech into normalized text.
 * **NMT (Neural Machine Translation):** Standardizes multi-dialect text tokens into uniform language vectors for downstream backend parsing.
 * **TTS (Text-to-Speech):** Converts deterministic text outputs back into high-fidelity, natural-sounding audio matching the caller's specific native dialect.
-* **Source Reference Link:** [PIB Delhi MeitY Press Release (ID: 2239132)](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239132&reg=3&lang=1)
+
+**Source Reference Link:** [PIB Delhi MeitY Press Release (ID: 2239132)](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239132&reg=3&lang=1)
 
 
 ### Federated AgriStack
@@ -22,11 +23,13 @@ AgriStack is the central digital public infrastructure (DPI) for Indian agricult
 
 3.  **Crop Sown Registry:** A seasonal, plot-level ledger populated via the geofenced, photo-verified **Digital Crop Survey (DCS)** executed by local field surveyors at the start of every cropping cycle (Kharif, Rabi, Zaid).
     *   **Construction:** Populated afresh each cultivation cycle (Kharif, Rabi, Zaid) via the central Digital Crop Survey (DCS) application. Appointed local surveyors walk the fields to record active crops, utilizing strict geo-fenced mobile tracking and automated validation rules to ensure data legitimacy directly from the ground.
-    
+
+**Source Reference Link:** [PIB Delhi AgriStack Milestone Release (ID: 2244626)](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2244626)
 
 ### PM-KISAN Ledger Core
 The PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) Ledger Core is a deterministic transactional direct benefit transfer (DBT) database. It serves as the definitive public ledger for recording recurring financial support installments, handling banking validation codes, and managing payment disbursement windows. It acts as a read-only source of truth for the voice pipeline's transactional lookups.
 
+**Source Reference Link:** [PIB Delhi Precision Farming & Chatbot Review (ID: 2227914)](https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2227914)
 
 ## 🔄 End-to-End Technical Transaction Flow
 
